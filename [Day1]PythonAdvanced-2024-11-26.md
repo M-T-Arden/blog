@@ -188,4 +188,4 @@ The challenges encountered, solutions, and key points for note-taking are indica
 
 ## Personal Thoughts
 
-Today, my learning progress was slower than I thought. Although I have completed some small projects with the help of AI tools, I realized that I lacked a solid foundation of certain concepts I had been using. When I learned about these knowledge gaps, I discovered how much more there is to learn. As I studied, I gained a deeper insight into the tools and coding logic. The journey has been challenging, but ultimately rewarding. I hope to continue making progress tomorrow and complete my plan in time.
+Today, my learning progress was slower than I thought. Although I had completed some small projects with the help of AI tools, I realized that I lacked a solid foundation of certain concepts I had been using. When I learned about these knowledge gaps, I discovered how much more there is to learn. As I studied, I gained a deeper insight into the tools and coding logic. The journey has been challenging, but ultimately rewarding. I hope to continue making progress tomorrow and complete my plan in time.
