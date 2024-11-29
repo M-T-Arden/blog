@@ -1,4 +1,4 @@
-# [PythonAdvanced] Learning Notes - Day 2
+# [PythonAdvanced] Learning Notes - Day 3
 
 ## Overview
 
